@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Olá, eu sou o André  
 
-<!--
-**andre14dev/andre14dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor em início de carreira  
+🎓 Estudante de Engenharia de Software  
+🎯 Foco em backend, construindo base fullstack  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+
+Sou movido por aprendizado constante e gosto de entender como as coisas funcionam por trás do código.  
+Tenho experiência com desenvolvimento de APIs REST, automação de processos e aplicações web.
+
+Busco escrever código limpo, organizado e evoluir um pouco todos os dias.
+
+---
+
+## 🛠️ Tecnologias
+
+**Backend:** Python, Java, MySQL  
+**Frontend:** JavaScript, React, HTML, CSS  
+**Ferramentas:** Git, GitHub, APIs REST  
+
+---
+
+## 📚 Atualmente estudando
+
+- Estrutura de dados  
+- Arquitetura backend  
+- Boas práticas de desenvolvimento  
+
+---
+
+## 📫 Contato
+
+- LinkedIn : https://www.linkedin.com/in/andreluiz04/
+- Email profissional : motandre14@gmail.com
