@@ -17,17 +17,10 @@ Busco escrever código limpo, organizado e evoluir um pouco todos os dias.
 
 ## 🛠️ Tecnologias
 
-**Backend:** Python, Java, MySQL  
-**Frontend:** JavaScript, React, HTML, CSS  
-**Ferramentas:** Git, GitHub, APIs REST  
+**Backend:** Python, Java, MySQL. 
+**Frontend:** JavaScript, React, HTML, CSS.
+**Ferramentas:** Git, GitHub, APIs REST.
 
----
-
-## 📚 Atualmente estudando
-
-- Estrutura de dados  
-- Arquitetura backend  
-- Boas práticas de desenvolvimento  
 
 ---
 
